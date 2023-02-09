@@ -1,7 +1,6 @@
-# Plate-forme de sports
+# Plate-forme sportive
 ![](https://www.heuredujournal.com/wp-content/uploads/2021/04/hero-bg.jpg)
 
-Le sport est un ensemble d'exercices physiques se pratiquant sous forme de jeux individuels ou collectifs pouvant donner lieu à des compétitions. Le sport est un phénomène quasi universel dans le temps et dans l'espace humain.
+C'est une plate-forme en ligne dédiée à la découverte et à la participation aux activités sportives, offrant des informations sur les événements sportifs, des fonctionnalités de mise en réseau pour les amateurs de sports, ainsi que des outils pour suivre les performances et améliorer les compétences sportives.
 
-
-### 1ere projet universitaire
+### 1ère projet universitaire
