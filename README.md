@@ -1,6 +1,6 @@
-# Plate-forme sportive
+# Sports Platform
 ![](https://www.heuredujournal.com/wp-content/uploads/2021/04/hero-bg.jpg)
 
-C'est une plate-forme en ligne dédiée à la découverte et à la participation aux activités sportives, offrant des informations sur les événements sportifs, ainsi que des outils pour suivre les performances et améliorer les compétences sportives.
+It is an online platform dedicated to discovery and participation in sports activities, offering information on sporting events, as well as tools to track performance and improve sports skills.
 
-### 1ère projet universitaire
+### 1st university project
